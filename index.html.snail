@@ -1,0 +1,45 @@
+<html>
+    <title> snales. do you want one? </title>
+    <body style="font-family: Marker Felt; background: #CFAA91; color: #966A57">
+        <header style="background-color: #92735D">
+             <h1 style="font-family: Marker Felt; font-size: 50px; text-align: center; color: #EFDECD"> Мої равлики <br> <font style="font-size:14px"><i>лизун і сосун</i></font> <br> <img src="https://plumeria.com.ua/img/articles/s21.jpg" width="100px" height="100px"/> </h1>
+         </header>
+        <main>
+             <p style="color: #79553D"> Навiгатор: </p>
+             <p> • <a href="names" style="color: brown" >  Імена</a></p>
+             <p> • <a href="story" style="color: brown" > Предісторія</a></p>
+             <p> • <a href="life" style="color: brown"> Історія</a></p>
+             <p> • <a href="baby" style="color: brown"> Діти</a></p>
+            <h2 id="names" style="font-size: 40px; color: #79553D"> Імена</h2>
+            <h4 style="color:#EFDECD"> Хто їх придумав? </h4>
+            <p style="font-family: monospace; font-size: 20px; background-color: #DABDAB">  Імена вигадувала не я особисто, у них випадково з'явилася кличка, і ми її не змінювали. Краще давайте більш детально подивимося про походження цієї клички. </p>
+            <h3 id="story" style="font-size: 40px; color: #79553D; "> Їх історія. </h3> 
+            <p style="font-family: monospace; font-size: 20px; background-color: #DABDAB">На новий рік 2021, моя тітка приходить у гості не сама, а з баночою "друзів". Їх було четверо, жили вони у просторій склянці. Я їх кормила, дивилася, любила, вони стали частиною моєї сім'ї! Але через кілька днів, як ми з родиною помітили: у равликів занадто хрупкий панцирь. Прикро що ми не вдіяли нічого завчасно, тому дуже скоро три равлики вмерли залишившись без панцирів. Ми дуже засмутились, але один вижив і живе до сих пір. Обнаруживши його родиною, хтось у жарт зве Лизун. Тепер це його ім'я навіки</p>
+            <img src="https://ireland.apollo.olxcdn.com/v1/files/6wkk51vccuxg1-UA/image"width="150px" height="140px"/>
+        <h4 id="life" style="font-size: 40px; color: #79553D"> Важке життя равликів </h4>
+        <p style="font-family: monospace; font-size: 20px; background-color: #DABDAB"> Діло у тім, що равликів нам подарували перед війною. Тільки вона почалась, було важко слідкувати за ними. Але тато героїчно їх годував і мив. Але те було не довго, бо ми переїхали в інше місто. І тоді починається пекло для Лизуна. Він місяців 4 жив у холоді і самоті, без їжі чи води. Спав на стінах і йому було не так уж і добре. Сумно, самотньо. Бабуся приходила і кормила його іноді, так і жив, багато спав. <br> І коли ми забрали його додому, йому стало краще. Став дуже активни і щасливий.<br> А ви знали, що равлики гемофродити? Бо трішки пізніше він родив. Ми роздали всьому дворі його яйця, а самі залишили лише одного: Сосуна. І до сих пір у нас живе два щасливих  равлика. ситі і в теплі. Оба з них доречі народжували і після, али всіх ми залишити не змогли.</p> 
+            <table id="baby" style="font-family: Courier New; font-size: 20px; border: 4px solid #9F8170; background-color: #DABDAB">
+                <tr style="background-color: #BC987E; color: #755C48">
+                    <td> рік</td>
+                    <td> скільки дітей можуть зробити равлики?</td>
+                </tr>
+                <tr style="color:#A87E61 ">
+                    <td style="background-color: #E9C9AF; color: white"> 2021</td>
+                    <td> 50</td>
+                </tr>
+                <tr style="color:#A87E61">
+                    <td style="background-color: #E9C9AF; color: white"> 2022</td>
+                    <td> 70</td>
+                </tr>
+                <tr style="color:#A87E61">
+                    <td style="background-color: #E9C9AF; color: white"> 2023</td>
+                    <td> 100+</td>
+                </tr>
+            </table>
+        </main>
+        <footer style="background-color: black; color: white">
+         <p>ЩАСЛИВІ РАВЛИКИ </p>
+         <p> якщо вам подобається равлики, пропоную вам купити їх на наступному сайті. детальніше дзвонити 40-039-38</p>
+     </footer>
+    </body>
+</html>
